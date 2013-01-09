@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'MacDroidNotifier' target in the 'MacDroidNotifier' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+    #import "ProtocolBuffers/Bootstrap.h"
+#endif
